@@ -19,4 +19,3 @@ Explore my projects and feel free to connect with me for collaboration or opport
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- [Add any other tools/frameworks you used]()
